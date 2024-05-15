@@ -1,0 +1,3 @@
+.env
+.venv
+raspi_test/api/assets/*

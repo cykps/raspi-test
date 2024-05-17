@@ -1,3 +1,4 @@
 .env
 .venv
 raspi_test/api/assets/*
+poetry.lock
